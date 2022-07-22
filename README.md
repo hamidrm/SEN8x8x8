@@ -2,4 +2,4 @@
 A VHDL implementation for Shuffle-Exchange Network 8x8x8
 
 Simulation:
-![test](test.png)
+![Simulation](test.PNG)
